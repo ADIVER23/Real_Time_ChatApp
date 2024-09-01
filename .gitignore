@@ -9,11 +9,14 @@ lerna-debug.log*
 
 eraser_link:https://app.eraser.io/workspace/jzWuM7VidhHld5WzOf4W
 .env
+build
 node_modules
 dist
 dist-ssr
 *.local
-
+.firebase
+firebase.json
+.firebaserc
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

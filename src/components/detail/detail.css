@@ -15,6 +15,13 @@
       border-radius: 50%;
       object-fit: cover;
     }
+    p{
+
+      &.ffs{
+        color: rgb(211, 37, 14);
+        font-style: italic;
+      }
+    }
   }
 
   .info {
