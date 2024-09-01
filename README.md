@@ -1,3 +1,1 @@
-# Lama Dev Chat App Starter template
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Real Time Chat App which also supports uploading of pictures and allows to block users as well. This was developed using Vite and Firebase for backend, I have also used Zustand for state management.

@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 eraser_link:https://app.eraser.io/workspace/jzWuM7VidhHld5WzOf4W
-
+.env
 node_modules
 dist
 dist-ssr
